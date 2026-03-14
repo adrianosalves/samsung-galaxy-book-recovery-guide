@@ -1,5 +1,6 @@
 💻 Samsung Galaxy Book Technical Guide: Boot & Disk Recovery
 Este repositório documenta soluções técnicas definitivas para problemas de boot e permissões de disco em notebooks da linha Samsung Galaxy Book (incluindo modelos como NP750XFG e a série Book 4)
+
 .
 🛠️ Problemas Comuns Resolvidos
 Pen drive de boot não é reconhecido: O notebook não mostra o dispositivo USB nas opções de boot
