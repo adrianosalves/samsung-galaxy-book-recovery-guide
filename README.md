@@ -2,7 +2,7 @@
 
 Este repositório documenta soluções técnicas definitivas para problemas de boot e permissões de disco em notebooks da linha Samsung Galaxy Book (incluindo modelos como NP750XFG e a série Book 4)
 
-https://github.com/adrianosalves/samsung-galaxy-book-recovery-guide/blob/main/samsung-galaxy-book-recovery-guide.png
+![samsung-galaxy-book-recovery-guide](https://github.com/adrianosalves/samsung-galaxy-book-recovery-guide/blob/main/samsung-galaxy-book-recovery-guide.png)
 
 .
 🛠️ Problemas Comuns Resolvidos
