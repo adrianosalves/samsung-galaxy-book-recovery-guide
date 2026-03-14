@@ -60,12 +60,6 @@ Para garantir a instalação correta em modelos como o NP750XFG:
 - Drivers de Rede: Utilize o aplicativo Samsung Update em outro computador para baixar o driver de Wireless LAN específico para o modelo do seu notebook e copie-o para o pen drive de instalação.
 
 --------------------------------------------------------------------------------
-🤝 Créditos e Referências
-
-Solução de esquema de partição GPT: Siron Digital.
-Guia de recuperação de permissões via WinPE: Baseado em procedimentos técnicos para Galaxy Book 4.
-
---------------------------------------------------------------------------------
 Como usar este guia?
 
 Este README serve como uma base de conhecimento para técnicos de TI. Sinta-se à vontade para abrir uma Issue caso encontre uma variação nestes procedimentos para outros modelos Samsung.
